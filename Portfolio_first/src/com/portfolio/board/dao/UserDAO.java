@@ -1,8 +1,8 @@
-package com.portfolio.dao;
+package com.portfolio.board.dao;
 
 import java.sql.*;
 
-import com.portfolio.vo.UserVO;
+import com.portfolio.board.vo.UserVO;
 
 public class UserDAO {
 	

@@ -1,4 +1,4 @@
-package com.portfolio.dao;
+package com.portfolio.board.dao;
 
 import java.sql.*;
 

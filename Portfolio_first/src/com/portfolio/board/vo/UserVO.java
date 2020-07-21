@@ -1,4 +1,4 @@
-package com.portfolio.vo;
+package com.portfolio.board.vo;
 
 public class UserVO {
 	private String u_id;

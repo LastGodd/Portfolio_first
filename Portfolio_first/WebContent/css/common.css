@@ -1,0 +1,33 @@
+@charset "UTF-8";
+/* 초기화 */
+/*
+body, h1, h2, h3, h4, h5, h6, p, ul, dl, dd { margin: 0; padding: 0; }
+ul li { list-style: none; }
+a { text-decoration: none; }
+hr { display: none; }
+address { font-style: normal; }
+small { font-size: 1em; }
+.hidden { position: absolute; left: -9999px; } */
+/* container */
+#mainContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: cadetblue;
+}
+
+#header {
+
+}
+#member {
+}
+
+#main {
+
+    background-color: cornflowerblue;
+}
+
+#footer {
+
+    background-color: cyan;
+}
